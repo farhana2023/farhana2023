@@ -1,9 +1,4 @@
-### Hi there 👋
-
-**farhana2023/farhana2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there 👋 I'm Farhana
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning  Data Analyst 
 - 👯 I’m looking to collaborate on ...
