@@ -4,7 +4,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhana2023&label=Profile%20views&color=0e75b6&style=flat" alt="farhana2023" /> </p>
 
-- 🔭 I’m currently working on [Data Analyst](https://www.coursera.org/?skipBrowseRedirect=true)
+- 🔭 I’m currently working on vueJs framework
+- ## 🚀 Successfully Completed StaffSphere Project!
+
+I'm thrilled to announce the successful completion of the StaffSphere project, a comprehensive Employee Management and Project Collaboration platform built using the Vue.js framework.
+
+### Key Highlights:
+
+- 🎉 Designed and developed a user-friendly interface for employee profiles and project management.
+- 📊 Implemented role-based access control, empowering Admins, Team Leaders, and Employees.
+- 📈 Enhanced project collaboration and task management, ensuring efficient workflow.
+- 📣 Achieved 100% testing completion, delivering a robust and error-free system.
+- 📦 Ready for deployment, aiming to streamline workforce management and project coordination for organizations.
+
+### Tech Stack:
+
+- 💻 Vue.js for the frontend(HTML5, CSS5, Bootstrap5, JavaScript, and the Vue.js framework (using pinia)
+).
+- 🌐 firebase for Back-end.
+
+
+This project was an incredible learning experience, and I'm excited about the potential impact it can have on organizations. Stay tuned for more updates and projects in the pipeline!
+
+#vuejs #projectcompletion #webdevelopment #employeemanagement #projectcollaboration
+
 
 - 📫 How to reach me **farha.islam.1310@gmail.com**
 
