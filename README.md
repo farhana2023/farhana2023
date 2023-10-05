@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhana2023&label=Profile%20views&color=0e75b6&style=flat" alt="farhana2023" /> </p>
 
 - 🔭 I’m currently working on vueJs framework
-- ## 🚀 Successfully Completed StaffSphere Project!
+- ## 🚀 Successfully Completed StaffSphere Project for ComIT course!
 - https://github.com/farhana2023/HRSystem
   
 
