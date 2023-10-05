@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on vueJs framework
 - ## 🚀 Successfully Completed StaffSphere Project for ComIT course!
 - https://github.com/farhana2023/HRSystem
+- https://github.com/farhana2023/HRSystem/blob/main/StaffSphere.pptx
+  
   
 
 I'm thrilled to announce the successful completion of the StaffSphere project, a comprehensive Employee Management and Project Collaboration platform built using the Vue.js framework.
